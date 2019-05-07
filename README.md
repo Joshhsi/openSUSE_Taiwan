@@ -12,3 +12,5 @@ Slack 聊天群組: https://opensusetaiwan.slack.com
 Youtube 頻道 https://www.youtube.com/channel/UChe5J_as5QUE7zaRWvCKwTQ
 
 Event/ - 放置活動相關資料
+
+haha
